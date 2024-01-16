@@ -1,3 +1,7 @@
+
+import app.config.AppConfig;
+import app.model.Cat;
+import app.model.HelloWorld;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

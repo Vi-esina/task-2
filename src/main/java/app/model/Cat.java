@@ -1,3 +1,5 @@
+package app.model;
+
 public class Cat {
     private String messageCat;
 

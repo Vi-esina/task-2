@@ -1,3 +1,7 @@
+package app.config;
+
+import app.model.Cat;
+import app.model.HelloWorld;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;

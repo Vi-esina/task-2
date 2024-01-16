@@ -1,3 +1,5 @@
+package app.model;
+
 public class HelloWorld {
  
     private String message;
